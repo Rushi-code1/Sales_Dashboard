@@ -11,4 +11,3 @@ This dashboard provides insights into sales data across various categories:
 
 Each chart helps to visualize sales performance, payment preferences, and popular items.
 
-> Don't forget to leave a star ⭐️ if you find this project helpful!
