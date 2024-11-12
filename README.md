@@ -1,6 +1,6 @@
 # Sales Dashboard
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Screenshot 2024-11-12 204238.png)
 
 This dashboard provides insights into sales data across various categories:
 - Order count by month
